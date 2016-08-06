@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\save\CallByVoice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\android\save\CallByVoice\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.0.0_53012bf31dc198bd547fa8943336ef9e978a5c3d.jar" />
+    </item>
+    <item
+        jar="D:\android\save\CallByVoice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\android\save\CallByVoice\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.0.0_43c3272f8a40c89e1b522c5d1622d2c30ba85700.jar" />
+    </item>
+    <item
+        jar="D:\android\save\CallByVoice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\android\save\CallByVoice\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.0.0_ac34267439687c9b0f0926a4cc4fe0001b0d323a.jar" />
+    </item>
+    <item
+        jar="D:\android\save\CallByVoice\app\libs\Sunflower.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d776a8e7f488af5d76fdd9505954b0f961de6790">
+        <dex dex="D:\android\save\CallByVoice\app\build\intermediates\pre-dexed\release\Sunflower_5d08b88bd253019b79c0f3af1eb7c704ae0daa4f.jar" />
+    </item>
+    <item
+        jar="D:\android\save\CallByVoice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\android\save\CallByVoice\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.0.0_fd1a53b0fa10146f5f30a65891bb0f864b1ad974.jar" />
+    </item>
+    <item
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\android\save\CallByVoice\app\build\intermediates\pre-dexed\release\support-annotations-24.0.0_6ed7e4206cb427123597c0523bcd77adfef1e923.jar" />
+    </item>
+    <item
+        jar="D:\android\save\CallByVoice\app\libs\Msc.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="85a46b29703ef8930a92d2fdea8ff336275c7ab2">
+        <dex dex="D:\android\save\CallByVoice\app\build\intermediates\pre-dexed\release\Msc_40c230e95df92757392d891a9a81c808ef31633a.jar" />
+    </item>
+    <item
+        jar="D:\android\save\CallByVoice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\android\save\CallByVoice\app\build\intermediates\pre-dexed\release\internal_impl-24.0.0_8e2efabba9013154f31a962820ff4d728256887f.jar" />
+    </item>
+
+</items>
